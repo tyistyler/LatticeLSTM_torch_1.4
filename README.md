@@ -6,5 +6,9 @@
 
 ## How to train the model
     python run_train.py 
+## Score of Resume
+| Dataset  | P        |  R     | F1     |
+| -----   | -----   | ---- | ---- |
+| Resume  | 94.89       |  94.60     | 94.75     |
 ## Data and Embedding file
 more details please see [LatticeLSTM](https://github.com/jiesutd/LatticeLSTM)
